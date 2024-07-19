@@ -13,6 +13,8 @@
 		650CC52B2C4A985E00AB53BA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 650CC52A2C4A985E00AB53BA /* Base */; };
 		650CC52D2C4A985F00AB53BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 650CC52C2C4A985F00AB53BA /* Assets.xcassets */; };
 		650CC5302C4A985F00AB53BA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 650CC52F2C4A985F00AB53BA /* Base */; };
+		650CC5382C4AA25B00AB53BA /* TripData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650CC5372C4AA25B00AB53BA /* TripData.swift */; };
+		650CC53B2C4AA85000AB53BA /* DetailsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650CC53A2C4AA85000AB53BA /* DetailsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		650CC52C2C4A985F00AB53BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		650CC52F2C4A985F00AB53BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		650CC5312C4A985F00AB53BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		650CC5372C4AA25B00AB53BA /* TripData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripData.swift; sourceTree = "<group>"; };
+		650CC53A2C4AA85000AB53BA /* DetailsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				650CC52C2C4A985F00AB53BA /* Assets.xcassets */,
 				650CC52E2C4A985F00AB53BA /* LaunchScreen.storyboard */,
 				650CC5312C4A985F00AB53BA /* Info.plist */,
+				650CC5372C4AA25B00AB53BA /* TripData.swift */,
+				650CC53A2C4AA85000AB53BA /* DetailsController.swift */,
 			);
 			path = "Trip Book";
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				650CC5282C4A985E00AB53BA /* ViewController.swift in Sources */,
 				650CC5242C4A985E00AB53BA /* AppDelegate.swift in Sources */,
+				650CC53B2C4AA85000AB53BA /* DetailsController.swift in Sources */,
+				650CC5382C4AA25B00AB53BA /* TripData.swift in Sources */,
 				650CC5262C4A985E00AB53BA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
