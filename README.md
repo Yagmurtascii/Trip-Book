@@ -1,6 +1,6 @@
 # [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)  Trip Book  
 
-This application is a trip book application. You can add your visited place.
+This application is a trip book application.
 - This application is an entry project developed using Swift storyboard.
     - Used more one than view controller.
     - Data migration between segues.
